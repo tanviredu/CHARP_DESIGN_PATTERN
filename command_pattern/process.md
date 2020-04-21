@@ -1,3 +1,12 @@
+[TRY THIS AFTER KNOW REPOSITORY PATTERN]
+[IMPLEMENT ONLY THE SHOPPING CART
+AND THE SHOPPINGCART.BUSINESS
+OTHER PROJECT IS NOT PART OF THIS
+]
+
+
+
+
 1) invoker invokes the command
 2) and reciver is the thing which command runs
 3) client can access the command and invoker
@@ -20,6 +29,3 @@ then the invoker will no longer invoke the command
 9) this design patter will automatically help to undo and redo the operation
 
 
-10) do not run the download program in dotnetcore
-11) write the first two
-11) third project is a WPF project and it is not part of the project
