@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "BallOfMud/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/BallOfMud.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BallOfMud.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BallOfMud/1.0.0": {
+      "type": "project",
+      "path": "../BallOfMud/BallOfMud.csproj",
+      "msbuildProject": "../BallOfMud/BallOfMud.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "BallOfMud >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/home/tanvir/.nuget/packages/": {}
@@ -30,7 +49,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/Facade_pattern/mycode/BallOfMud/BallOfMud.csproj": {
+              "projectPath": "/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/Facade_pattern/mycode/BallOfMud/BallOfMud.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

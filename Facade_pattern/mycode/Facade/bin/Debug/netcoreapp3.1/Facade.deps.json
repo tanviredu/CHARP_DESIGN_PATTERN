@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Facade/1.0.0": {
+        "dependencies": {
+          "BallOfMud": "1.0.0"
+        },
+        "runtime": {
+          "Facade.dll": {}
+        }
+      },
+      "BallOfMud/1.0.0": {
+        "runtime": {
+          "BallOfMud.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Facade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BallOfMud/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

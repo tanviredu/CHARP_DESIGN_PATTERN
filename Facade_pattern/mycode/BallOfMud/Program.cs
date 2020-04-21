@@ -1,12 +1,19 @@
-﻿using System;
-
+using System;
 namespace BallOfMud
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
+
+        static void Main(string[] args){
+
+            // insted of the BigClass we take the
+            // BigClassFacade
+
+            var _bigclassFacade = new BigFacade();
+            _bigclassFacade.IncreasebyNumber(100);
+            _bigclassFacade.DecresebyNumber(50);
+            Console.WriteLine(_bigclassFacade.GetCurrentValue());
         }
+        
     }
 }
