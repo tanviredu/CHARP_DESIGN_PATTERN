@@ -1,0 +1,13 @@
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/command_pattern/02/demos/ShoppingCart/bin/Debug/netcoreapp2.2/ShoppingCart.deps.json
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/command_pattern/02/demos/ShoppingCart/bin/Debug/netcoreapp2.2/ShoppingCart.runtimeconfig.json
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/command_pattern/02/demos/ShoppingCart/bin/Debug/netcoreapp2.2/ShoppingCart.runtimeconfig.dev.json
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/command_pattern/02/demos/ShoppingCart/bin/Debug/netcoreapp2.2/ShoppingCart.dll
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/command_pattern/02/demos/ShoppingCart/bin/Debug/netcoreapp2.2/ShoppingCart.pdb
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/command_pattern/02/demos/ShoppingCart/bin/Debug/netcoreapp2.2/ShoppingCart.Business.dll
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/command_pattern/02/demos/ShoppingCart/bin/Debug/netcoreapp2.2/ShoppingCart.Business.pdb
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/command_pattern/02/demos/ShoppingCart/obj/Debug/netcoreapp2.2/ShoppingCart.csprojAssemblyReference.cache
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/command_pattern/02/demos/ShoppingCart/obj/Debug/netcoreapp2.2/ShoppingCart.AssemblyInfoInputs.cache
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/command_pattern/02/demos/ShoppingCart/obj/Debug/netcoreapp2.2/ShoppingCart.AssemblyInfo.cs
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/command_pattern/02/demos/ShoppingCart/obj/Debug/netcoreapp2.2/ShoppingCart.csproj.CopyComplete
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/command_pattern/02/demos/ShoppingCart/obj/Debug/netcoreapp2.2/ShoppingCart.dll
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/command_pattern/02/demos/ShoppingCart/obj/Debug/netcoreapp2.2/ShoppingCart.pdb

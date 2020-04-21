@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/command_pattern/02/demos/ShoppingCart.Business/ShoppingCart.Business.csproj": {}
+  },
+  "projects": {
+    "/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/command_pattern/02/demos/ShoppingCart.Business/ShoppingCart.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/command_pattern/02/demos/ShoppingCart.Business/ShoppingCart.Business.csproj",
+        "projectName": "ShoppingCart.Business",
+        "projectPath": "/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/command_pattern/02/demos/ShoppingCart.Business/ShoppingCart.Business.csproj",
+        "packagesPath": "/home/tanvir/.nuget/packages/",
+        "outputPath": "/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/command_pattern/02/demos/ShoppingCart.Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/tanvir/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
