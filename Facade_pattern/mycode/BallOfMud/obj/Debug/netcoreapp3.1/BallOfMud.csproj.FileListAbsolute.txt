@@ -1,0 +1,11 @@
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/Facade_pattern/mycode/BallOfMud/bin/Debug/netcoreapp3.1/BallOfMud
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/Facade_pattern/mycode/BallOfMud/bin/Debug/netcoreapp3.1/BallOfMud.deps.json
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/Facade_pattern/mycode/BallOfMud/bin/Debug/netcoreapp3.1/BallOfMud.runtimeconfig.json
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/Facade_pattern/mycode/BallOfMud/bin/Debug/netcoreapp3.1/BallOfMud.runtimeconfig.dev.json
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/Facade_pattern/mycode/BallOfMud/bin/Debug/netcoreapp3.1/BallOfMud.dll
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/Facade_pattern/mycode/BallOfMud/bin/Debug/netcoreapp3.1/BallOfMud.pdb
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/Facade_pattern/mycode/BallOfMud/obj/Debug/netcoreapp3.1/BallOfMud.csprojAssemblyReference.cache
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/Facade_pattern/mycode/BallOfMud/obj/Debug/netcoreapp3.1/BallOfMud.AssemblyInfoInputs.cache
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/Facade_pattern/mycode/BallOfMud/obj/Debug/netcoreapp3.1/BallOfMud.AssemblyInfo.cs
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/Facade_pattern/mycode/BallOfMud/obj/Debug/netcoreapp3.1/BallOfMud.dll
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/Facade_pattern/mycode/BallOfMud/obj/Debug/netcoreapp3.1/BallOfMud.pdb
