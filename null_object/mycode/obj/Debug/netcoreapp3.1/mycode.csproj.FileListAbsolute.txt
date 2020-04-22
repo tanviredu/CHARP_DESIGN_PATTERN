@@ -1,0 +1,11 @@
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/null_object/mycode/bin/Debug/netcoreapp3.1/mycode
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/null_object/mycode/bin/Debug/netcoreapp3.1/mycode.deps.json
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/null_object/mycode/bin/Debug/netcoreapp3.1/mycode.runtimeconfig.json
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/null_object/mycode/bin/Debug/netcoreapp3.1/mycode.runtimeconfig.dev.json
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/null_object/mycode/bin/Debug/netcoreapp3.1/mycode.dll
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/null_object/mycode/bin/Debug/netcoreapp3.1/mycode.pdb
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/null_object/mycode/obj/Debug/netcoreapp3.1/mycode.csprojAssemblyReference.cache
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/null_object/mycode/obj/Debug/netcoreapp3.1/mycode.AssemblyInfoInputs.cache
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/null_object/mycode/obj/Debug/netcoreapp3.1/mycode.AssemblyInfo.cs
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/null_object/mycode/obj/Debug/netcoreapp3.1/mycode.dll
+/home/tanvir/storage2/code/CHARP_DESIGN_PATTERN/null_object/mycode/obj/Debug/netcoreapp3.1/mycode.pdb

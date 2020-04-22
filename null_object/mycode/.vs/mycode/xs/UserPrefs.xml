@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{E0F7790A-3CC5-4367-A3B5-2921381C7B8B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Entities/ILearner.cs" Line="15" Column="62" />
+      <File FileName="Entities/Learner.cs" Line="23" Column="21" />
+      <File FileName="Entities/NullLearner.cs" Line="15" Column="49" />
+      <File FileName="Services/LearnerService.cs" Line="8" Column="5" />
+      <File FileName="Services/LearnerRepo.cs" Line="62" Column="38" />
+      <File FileName="View/LearnerView.cs" Line="31" Column="10" />
+      <File FileName="Program.cs" Line="11" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mycode" expanded="True">
+            <Node name="mycode" expanded="True">
+              <Node name="Entities" expanded="True" />
+              <Node name="View" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.mycode PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
